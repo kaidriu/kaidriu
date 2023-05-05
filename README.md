@@ -8,10 +8,6 @@
 
 Hola, soy Marco Astudillo, tengo 27 años y soy de Ecuador. Soy un Ingeniero de Sistemas apasionado por el desarrollo de software y la tecnología en general. Siempre dispuesto a enfrentar nuevos retos y explorar nuevas tecnologías.
 
-## 🎓 Educación
-
-- Título Universitario en Ingeniería de Sistemas
-
 ## 💻 Habilidades
 
 - **Linux Shell** 🐧
