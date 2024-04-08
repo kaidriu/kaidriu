@@ -1,12 +1,12 @@
 # 🚀 Marco Astudillo
 
 <p align="center">
-  <img src="https://marco.codeoro.com/carnet.png" alt="Profile Picture" width="200">
+  <img src="https://ibb.co/Phz4LMH" alt="Profile Picture" width="200">
 </p>
 
 ## 🎯 Acerca de mí
 
-Hola, soy Marco Astudillo, tengo 27 años y soy de Ecuador. Soy un Ingeniero de Sistemas apasionado por el desarrollo de software y la tecnología en general. Siempre dispuesto a enfrentar nuevos retos y explorar nuevas tecnologías.
+Hola, soy Marco Astudillo, tengo 28 años y soy de Ecuador. Soy un Ingeniero de Sistemas apasionado por el desarrollo de software y la tecnología en general. Siempre dispuesto a enfrentar nuevos retos y explorar nuevas tecnologías.
 
 ## 💻 Habilidades
 
