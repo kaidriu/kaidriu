@@ -1,7 +1,7 @@
 # 🚀 Marco Astudillo
 
 <p align="center">
-  <img src="https://ibb.co/Phz4LMH" alt="Profile Picture" width="200">
+  <img src="https://photos.app.goo.gl/DgE2Pn6cfGYMuakt7" alt="Profile Picture" width="200">
 </p>
 
 ## 🎯 Acerca de mí
